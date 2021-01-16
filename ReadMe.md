@@ -23,11 +23,13 @@ This repository  is intended to store useful utilities written in Python.
         - In example data has not been escaped.
         * Requires prior installation of JAVA JRE 
 
+    · Airflow (
+        -Basic Apache Airflow File structure and DAG setup done along with https://blog.insightdatascience.com/airflow-101-start-automating-your-batch-workflows-with-ease-8e7d35387f94 to understand airflow with basic file structure. pip install apache-airflow )
+        -
+
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+All Contributions welcome.
 
 ## Licence
 
