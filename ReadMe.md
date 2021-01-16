@@ -14,6 +14,14 @@ This repository  is intended to store useful utilities written in Python.
         - Converts a string into an integer numerical representation
     · utilities.py
         - Custom Validator to make a field optional if another field has a desired value.
+    · import_data.py
+        - Import CSV File into database with example
+        - Looper to programmatically call the import function
+    . tika_parser.py
+        - Parse through documents and extract data required.
+        - Displays Connection and insertion to mongoDB using the data retrieved from Apache Tika.
+        - In example data has not been escaped.
+        * Requires prior installation of JAVA JRE 
 
 
 ## Contributing
